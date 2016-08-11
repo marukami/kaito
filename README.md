@@ -1,2 +1,2 @@
-# kaito
-A set of Extensions Kotlin Android Context
+# Kaito
+A simple set of Kotlin extensions functions for Android Contexts

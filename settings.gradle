@@ -1,0 +1,2 @@
+include ':kaito'
+rootProject.name = 'kaito-root'
